@@ -1,5 +1,6 @@
 ADL.py:
 This script contains the functions to run the proposed method.
+
 	1)ADL()
 	This function conducts active learning with the ADL active learner.
 	Parameters:
